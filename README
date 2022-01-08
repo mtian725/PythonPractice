@@ -1,0 +1,18 @@
+Leetcode
+
+Stuff that I did for practice OA worth going back to (because bad performance usually)
+https://leetcode.com/problems/rotated-digits/ (basically brute forced it originall, can do this as a dp sort of problem, where 1-10 is your base case, and from there you append another number and only check that number)
+
+https://leetcode.com/problems/maximize-distance-to-closest-person/ (look over the solution, and understand the logic. Working solution is getting there in logic, but is very ineffient)
+
+https://leetcode.com/problems/remove-element/ (my implementation brute force solution that only works bc of the constraints)
+
+https://leetcode.com/problems/combination-sum/ (is a dp problem, but solved it recursively and not dp, apparently there is a dfs approach that is greedy)
+
+https://leetcode.com/problems/search-insert-position/ (is binary search, did binary search but did it the worst way possible somehow)
+
+https://leetcode.com/problems/number-of-provinces/ (did it right, but can optimize the process https://leetcode.com/problems/number-of-provinces/discuss/101349/Python-Simple-Explanation)
+
+https://leetcode.com/problems/reverse-integer/ (did it right, super inefficient)
+
+https://leetcode.com/problems/network-delay-time/solution/ (had the right approach going in but couldnt figure it out in the end, will be good graph dp problem or dijkstras practice)
