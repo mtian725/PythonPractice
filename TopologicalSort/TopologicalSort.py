@@ -1,9 +1,4 @@
 
-from inspect import stack
-from os import path
-from pickletools import stackslice
-
-
 def TopologicalSort(graph):
 
     paths = []
